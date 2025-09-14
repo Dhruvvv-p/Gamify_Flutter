@@ -19,7 +19,7 @@ List<Game> games = [
   Game(
     "Horizon Zero Dawn",
     GameImage(
-        "https://www.wallpaperflare.com/static/734/272/885/horizon-zero-dawn-playstation-4-logo-aloy-horizon-zero-dawn-wallpaper.jpg",
+        "https://images-cdn.ubuy.co.in/6355c1c5b0260f76a4146013-12-34-x-17-34-horizon-zero.jpg",
         ""),
     "",
     "Guerrilla Games",
@@ -61,14 +61,14 @@ List<Game> games2 = [
   ),
   Game(
     "The Last of Us Part II",
-    GameImage("https://mvpo.us/img/P6253.jpg", ""),
+    GameImage("https://upload.wikimedia.org/wikipedia/en/8/86/The_Last_of_Us_Part_I_cover.jpg", ""),
     "",
     "Naughty Dog",
   ),
   Game(
     "Sekiro: Shadows Die Twice",
     GameImage(
-        "https://onlysp.escapistmagazine.com/wp-content/uploads/2019/03/Sekiro-Shadows-Die-Twice-logo-art.jpg",
+        "https://j-mediaarts.jp/en/wp-content/uploads/sites/2/2020/02/ENT-05_SEKIRO-SHADOWS_DIE_TWICE_BG000142-768x766.jpg",
         ""),
     "",
     "From Software",
@@ -103,7 +103,7 @@ List<Game> featuredGames = [
   Game(
     "Dragon Ball Z: Kakarot",
     GameImage(
-        "https://cdn3.dualshockers.com/wp-content/uploads/2020/01/dbx-kakarot.png",
+        "https://static0.srcdn.com/wordpress/wp-content/uploads/2020/03/Dragon-Ball-Z-Kakarot-Goku.jpg?q=50&fit=crop&w=1100&h=618&dpr=1.5",
         ""),
     "",
     "CyberConnect2",
@@ -111,7 +111,7 @@ List<Game> featuredGames = [
   Game(
     "Mortal Kombat 11",
     GameImage(
-        "https://static.trueachievements.com/customimages/093902.jpg", ""),
+        "https://cdn.dlcompare.com/game_tetiere/upload/gameimage/file/40594.jpeg.webp", ""),
     "",
     "NetherRealm Studios",
   )
